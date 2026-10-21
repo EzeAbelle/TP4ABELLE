@@ -658,5 +658,3 @@ def test_total_sin_fecha_con_cupon_vencido_el_dia_de_la_llamada(monkeypatch):
 
     # Assert
     assert codigo == "CUPON_VENCIDO"
-
-
