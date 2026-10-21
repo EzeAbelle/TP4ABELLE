@@ -1,2 +1,6 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+Mutando checkout.py contra test_checkout.py  (motor: pytest)
+
+Mutantes generados : 35
+Muertos            : 35
+Sobrevivientes     : 0
+Puntaje de mutación: 100.0%
