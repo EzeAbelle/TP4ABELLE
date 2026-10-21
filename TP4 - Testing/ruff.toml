@@ -1,0 +1,6 @@
+# ruff check checkout.py
+target-version = "py310"
+line-length = 110
+
+[lint]
+select = ["F", "E", "W", "B"]
